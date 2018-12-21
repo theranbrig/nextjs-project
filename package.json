@@ -9,9 +9,17 @@
 		"start": "next start",
 		"export": "next build && next export"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/theranbrig/nextjs-project.git"
+	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/theranbrig/nextjs-project/issues"
+	},
+	"homepage": "https://github.com/theranbrig/nextjs-project#readme",
 	"dependencies": {
 		"next": "^7.0.2",
 		"react": "^16.7.0",
